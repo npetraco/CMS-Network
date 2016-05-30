@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<smile version="1.0" id="Network1" numsamples="1000" discsamples="10000">
+	<nodes>
+		<cpt id="H">
+			<state id="Hp_Source" />
+			<state id="Hd_NotSrouce" />
+			<probabilities>0.5 0.5</probabilities>
+		</cpt>
+		<cpt id="Num_2X">
+			<state id="zero" />
+			<state id="one" />
+			<state id="two" />
+			<state id="three" />
+			<state id="four" />
+			<state id="five" />
+			<state id="six" />
+			<state id="seven" />
+			<state id="eight" />
+			<state id="gt_eight" />
+			<parents>H</parents>
+			<probabilities>0.58955546 0.231765214 0.102719033 0.034095814 0.014242555 0.006905481 0.003021148 0.005179111 0.006473889 0.006042296 0.476822881 0.333464111 0.135453244 0.040429998 0.010308571 0.002471703 0.000568884 0.0002354 8.82751e-005 0.000156934</probabilities>
+		</cpt>
+		<cpt id="Num_3X">
+			<state id="zero" />
+			<state id="one" />
+			<state id="two" />
+			<state id="three" />
+			<state id="four" />
+			<state id="five" />
+			<state id="six" />
+			<state id="seven" />
+			<state id="eight" />
+			<state id="gt_eight" />
+			<parents>H</parents>
+			<probabilities>0.687526975 0.214069918 0.056538628 0.020284851 0.007768666 0.004315926 0.004315926 0.003021148 0.001294778 0.000863185 0.714430037 0.236508622 0.043372501 0.005012064 0.000549267 7.846680000000001e-005 1.96167e-005 9.80834e-006 9.80834e-006 9.80834e-006</probabilities>
+		</cpt>
+		<cpt id="Num_4X">
+			<state id="zero" />
+			<state id="one" />
+			<state id="two" />
+			<state id="three" />
+			<state id="four" />
+			<state id="five" />
+			<state id="six" />
+			<state id="seven" />
+			<state id="eight" />
+			<state id="gt_eight" />
+			<parents>H</parents>
+			<probabilities>0.735865343 0.193353474 0.046611998 0.011653 0.007337074 0.001294778 0.000863185 0.00172637 0.000431593 0.000863185 0.848019695 0.138807698 0.012280048 0.000774859 5.88501e-005 9.80834e-006 1.96167e-005 9.80834e-006 9.80834e-006 9.80834e-006</probabilities>
+		</cpt>
+		<cpt id="Num_5X">
+			<state id="zero" />
+			<state id="one" />
+			<state id="two" />
+			<state id="three" />
+			<state id="four" />
+			<state id="five" />
+			<state id="six" />
+			<state id="seven" />
+			<state id="eight" />
+			<state id="gt_eight" />
+			<parents>H</parents>
+			<probabilities>0.796288304 0.16745792 0.022874407 0.007337074 0.002589555 0.000863185 0.001294778 0.000431593 0.000431593 0.000431593 0.925456578 0.071336093 0.003070012 6.865840000000001e-005 1.96167e-005 9.80834e-006 9.80834e-006 9.80834e-006 9.80834e-006 9.80834e-006</probabilities>
+		</cpt>
+		<cpt id="Num_10X">
+			<state id="zero" />
+			<state id="one" />
+			<state id="two" />
+			<state id="three" />
+			<state id="four" />
+			<state id="five" />
+			<state id="six" />
+			<state id="seven" />
+			<state id="eight" />
+			<state id="gt_eight" />
+			<parents>H</parents>
+			<probabilities>0.931808373 0.057833405 0.004747518 0.001294778 0.00172637 0.000863185 0.000431593 0.000431593 0.000431593 0.000431593 0.997341939 0.002569786 1.96167e-005 9.80834e-006 9.80834e-006 9.80834e-006 9.80834e-006 9.80834e-006 9.80834e-006 9.80834e-006</probabilities>
+		</cpt>
+		<cpt id="Num_9X">
+			<state id="zero" />
+			<state id="one" />
+			<state id="two" />
+			<state id="three" />
+			<state id="four" />
+			<state id="five" />
+			<state id="six" />
+			<state id="seven" />
+			<state id="eight" />
+			<state id="gt_eight" />
+			<parents>H</parents>
+			<probabilities>0.91627104 0.07337073800000001 0.005610703 0.00172637 0.000431593 0.000863185 0.000431593 0.000431593 0.000431593 0.000431593 0.9943307770000001 0.00557114 2.9425e-005 9.80834e-006 9.80834e-006 9.80834e-006 9.80834e-006 9.80834e-006 9.80834e-006 9.80834e-006</probabilities>
+		</cpt>
+		<cpt id="Num_8X">
+			<state id="zero" />
+			<state id="one" />
+			<state id="two" />
+			<state id="three" />
+			<state id="four" />
+			<state id="five" />
+			<state id="six" />
+			<state id="seven" />
+			<state id="eight" />
+			<state id="gt_eight" />
+			<parents>H</parents>
+			<probabilities>0.906344411 0.082865775 0.006905481 0.000863185 0.000863185 0.000431593 0.000431593 0.000431593 0.000431593 0.000431593 0.989936638 0.009955469999999999 3.92334e-005 9.80834e-006 9.80834e-006 9.80834e-006 9.80834e-006 9.80834e-006 9.80834e-006 9.80834e-006</probabilities>
+		</cpt>
+		<cpt id="Num_7X">
+			<state id="zero" />
+			<state id="one" />
+			<state id="two" />
+			<state id="three" />
+			<state id="four" />
+			<state id="five" />
+			<state id="six" />
+			<state id="seven" />
+			<state id="eight" />
+			<state id="gt_eight" />
+			<parents>H</parents>
+			<probabilities>0.902028485 0.083297367 0.009063444 0.00172637 0.001294778 0.000863185 0.000431593 0.000431593 0.000431593 0.000431593 0.980412735 0.01938129 0.000137317 9.80834e-006 9.80834e-006 9.80834e-006 9.80834e-006 9.80834e-006 9.80834e-006 9.80834e-006</probabilities>
+		</cpt>
+		<cpt id="Num_6X">
+			<state id="zero" />
+			<state id="one" />
+			<state id="two" />
+			<state id="three" />
+			<state id="four" />
+			<state id="five" />
+			<state id="six" />
+			<state id="seven" />
+			<state id="eight" />
+			<state id="gt_eight" />
+			<parents>H</parents>
+			<probabilities>0.840310747 0.134656884 0.015537333 0.005179111 0.000863185 0.001294778 0.000431593 0.000431593 0.000863185 0.000431593 0.961080487 0.037860211 0.000990643 9.80834e-006 9.80834e-006 9.80834e-006 9.80834e-006 9.80834e-006 9.80834e-006 9.80834e-006</probabilities>
+		</cpt>
+		<cpt id="Num_gt10X">
+			<state id="zero" />
+			<state id="one" />
+			<state id="two" />
+			<state id="three" />
+			<state id="four" />
+			<state id="five" />
+			<state id="six" />
+			<state id="seven" />
+			<state id="eight" />
+			<state id="gt_eight" />
+			<parents>H</parents>
+			<probabilities>0.569270609 0.402244281 0.019853259 0.004747518 0.000431593 0.000863185 0.001294778 0.000431593 0.000431593 0.000431593 0.99739098 0.002530553 9.80834e-006 9.80834e-006 9.80834e-006 9.80834e-006 9.80834e-006 9.80834e-006 9.80834e-006 9.80834e-006</probabilities>
+		</cpt>
+	</nodes>
+	<extensions>
+		<genie version="1.0" app="GeNIe 2.0.5079.0" name="Network1" faultnameformat="nodestate">
+			<node id="H">
+				<name>H</name>
+				<interior color="e5f6f7" />
+				<outline color="000080" />
+				<font color="000000" name="Arial" size="8" />
+				<position>568 256 623 289</position>
+				<barchart active="true" width="115" height="68" />
+			</node>
+			<node id="Num_2X">
+				<name>Num_2X</name>
+				<interior color="e5f6f7" />
+				<outline color="000080" />
+				<font color="000000" name="Arial" size="8" />
+				<position>59 557 115 592</position>
+				<barchart active="true" width="91" height="198" />
+			</node>
+			<node id="Num_3X">
+				<name>Num_3X</name>
+				<interior color="e5f6f7" />
+				<outline color="000080" />
+				<font color="000000" name="Arial" size="8" />
+				<position>169 557 225 592</position>
+				<barchart active="true" width="91" height="198" />
+			</node>
+			<node id="Num_4X">
+				<name>Num_4X</name>
+				<interior color="e5f6f7" />
+				<outline color="000080" />
+				<font color="000000" name="Arial" size="8" />
+				<position>283 556 339 591</position>
+				<barchart active="true" width="91" height="198" />
+			</node>
+			<node id="Num_5X">
+				<name>Num_5X</name>
+				<interior color="e5f6f7" />
+				<outline color="000080" />
+				<font color="000000" name="Arial" size="8" />
+				<position>394 556 450 591</position>
+				<barchart active="true" width="91" height="198" />
+			</node>
+			<node id="Num_10X">
+				<name>Num_10X</name>
+				<interior color="e5f6f7" />
+				<outline color="000080" />
+				<font color="000000" name="Arial" size="8" />
+				<position>951 556 1007 591</position>
+				<barchart active="true" width="91" height="198" />
+			</node>
+			<node id="Num_9X">
+				<name>Num_9X</name>
+				<interior color="e5f6f7" />
+				<outline color="000080" />
+				<font color="000000" name="Arial" size="8" />
+				<position>838 556 894 591</position>
+				<barchart active="true" width="91" height="198" />
+			</node>
+			<node id="Num_8X">
+				<name>Num_8X</name>
+				<interior color="e5f6f7" />
+				<outline color="000080" />
+				<font color="000000" name="Arial" size="8" />
+				<position>727 556 783 591</position>
+				<barchart active="true" width="91" height="198" />
+			</node>
+			<node id="Num_7X">
+				<name>Num_7X</name>
+				<interior color="e5f6f7" />
+				<outline color="000080" />
+				<font color="000000" name="Arial" size="8" />
+				<position>614 556 670 591</position>
+				<barchart active="true" width="91" height="198" />
+			</node>
+			<node id="Num_6X">
+				<name> Num_6X</name>
+				<interior color="e5f6f7" />
+				<outline color="000080" />
+				<font color="000000" name="Arial" size="8" />
+				<position>506 557 562 592</position>
+				<barchart active="true" width="91" height="198" />
+			</node>
+			<node id="Num_gt10X">
+				<name>Num_gt10X</name>
+				<interior color="e5f6f7" />
+				<outline color="000080" />
+				<font color="000000" name="Arial" size="8" />
+				<position>1059 555 1132 591</position>
+				<barchart active="true" width="91" height="198" />
+			</node>
+		</genie>
+	</extensions>
+</smile>
