@@ -2,9 +2,14 @@
 
 A simple and practical model for computing posterior (mean)
 probabilities or likelihood ratios corresponding to observed CMS configurations. The
-graphical structure of the model was first described by Buckleton (as far as
-we know) for use with computing likelihood ratios of CMS runs. The
-specific "tweek" we make to the model is to compute CMS run-length
+graphical structure of the model was first described by Buckleton et al. (as far as
+we know. Apologies if there are earlier references we missed) for use with computing likelihood ratios of CMS runs. 
+
+Buckleton J, Nichols R, Triggs C and Wevers G. “An Exploratory Bayesian Model for Firearm and Tool Mark Interpretation”, AFTE J 37(4):352-359 2005.
+
+Wevers, G, Michael Neel, M and Buckleton, J. “A Comprehensive Statistical Analysis of Striated Tool Mark Examinations Part 2: Comparing Known Matches and Known Non-Matches using Likelihood Ratios”, AFTE J 43(2):1-9 2011.
+
+The specific "tweek" we make to the model is to compute CMS run-length
 probabilities with a simple multinomial-Dirichlet conjugate model.
 
 The data we use with the multinomial-Dirichlet conjugate model is
