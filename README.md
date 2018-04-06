@@ -9,7 +9,7 @@ likelihood ratios of CMS runs.
 * Buckleton J, Nichols R, Triggs C and Wevers G. “An Exploratory Bayesian Model for 
 Firearm and Tool Mark Interpretation”, AFTE J 37(4):352-359 2005.
 
-* Wevers, G, Michael Neel, M and Buckleton, J. “A Comprehensive Statistical Analysis 
+* Wevers G, Neel M and Buckleton J. “A Comprehensive Statistical Analysis 
 of Striated Tool Mark Examinations Part 2: Comparing Known Matches and Known Non-Matches 
 using Likelihood Ratios”, AFTE J 43(2):1-9 2011.
 
