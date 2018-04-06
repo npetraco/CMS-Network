@@ -2,8 +2,8 @@
 
 A simple and practical model for computing posterior (mean)
 probabilities or likelihood ratios corresponding to observed CMS configurations. The
-graphical structure of the model was first described by Buckleton et al. (as far as
-we know. Apologies if there are earlier references we missed) for use with computing 
+graphical structure of the model was first described by Buckleton et al. (...as far as
+we know. Apologies if there are earlier references we missed.) for use with computing 
 likelihood ratios of CMS runs. 
 
 * Buckleton J, Nichols R, Triggs C and Wevers G. “An Exploratory Bayesian Model for 
